@@ -16,3 +16,5 @@ Nicolas Thivierge - March 26, 2015. This is some text. Ceci est un texte. Kore w
 More spacing information
 
 Max Bassett - March 26, 2015
+
+Vincent Arrage - March 26th 2015 - Never Stop.
