@@ -8,17 +8,3 @@ A spacing line
 
 More spacing
 
-
-Robert Morison - 26st of March, 2015
-
-Nicolas Thivierge - March 26, 2015. This is some text. Ceci est un texte. Kore wa text desu.
-
-More spacing information
-
-Max Bassett - March 26, 2015
-
-Vincent Arrage - March 26th 2015 - Never Stop.
-
-Jon Cotton - March 26th, 2015
-
-Cameron Blair - 26/03/2015
