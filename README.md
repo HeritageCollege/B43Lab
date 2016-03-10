@@ -8,8 +8,18 @@ A spacing line
 
 More spacing
 
+<<<<<<< HEAD
 Francis Pilon
 10 March, 2016
 
 Mark Abourahal
 March 10th 2016
+=======
+Guillaume Mercier
+2016-03-10
+Dear diary,
+I once wished of a free world where i could acces all types of data but now, i realised how important security is.
+I may be going mad but i hope to pull myself out of this hole one day.
+
+the end
+>>>>>>> refs/remotes/origin/GM-readme-edits
