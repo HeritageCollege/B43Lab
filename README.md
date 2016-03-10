@@ -14,6 +14,7 @@ Francis Pilon
 
 Mark Abourahal
 March 10th 2016
+<<<<<<< HEAD
 =======
 Guillaume Mercier
 2016-03-10
@@ -23,3 +24,19 @@ I may be going mad but i hope to pull myself out of this hole one day.
 
 the end
 >>>>>>> refs/remotes/origin/GM-readme-edits
+=======
+
+Troy Mclean
+Programming IV
+403-B42
+March 10th
+
+Kevin Cherryholme
+March 10th, 2016
+420-B42
+
+Dzmitry Alekhin
+Marth 10th, 2016
+
+
+>>>>>>> origin/master
