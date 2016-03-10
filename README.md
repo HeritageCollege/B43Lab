@@ -8,9 +8,6 @@ A spacing line
 
 More spacing
 
-Francis Pilon
-10 March, 2016
-
 Troy Mclean
 Programming IV
 403-B42
