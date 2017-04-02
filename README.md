@@ -8,26 +8,3 @@ A spacing line
 
 More spacing
 
-Francis Pilon
-10 March, 2016
-
-Mark Abourahal
-March 10th 2016
-
-Guillaume Mercier
-2016-03-10
-
-Troy Mclean
-Programming IV
-403-B42
-March 10th
-
-Kevin Cherryholme
-March 10th, 2016
-420-B42
-
-Dzmitry Alekhin
-Marth 10th, 2016
-
-mustafa el sharif
-march 10, 2016
