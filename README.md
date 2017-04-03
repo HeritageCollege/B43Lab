@@ -23,7 +23,7 @@ Im second
 
 Brae was here 03/04/2017 
 
-Philip edit this file 
+ 
 
 Maxwell Haley April 4th, 2017 Help, I'm trapped in a Computer Science course!
 
@@ -42,4 +42,4 @@ Branched off from HeritageCollege/B42Lab
 
 Cody Berube
 
-
+Philip edit this file - April 3rd 2017
