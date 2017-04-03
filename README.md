@@ -10,7 +10,6 @@ More spacing
 
 
 
-=======
 
 Amirreza Yadollahi...
 April 3rd 2017 
@@ -25,14 +24,15 @@ Louis Thibodeau 03/04/17 Programming IV 420-B42
 MY NAME IS ANDREW HA
 4/3/2017
 Im second
-=======
 
 Brae was here 03/04/2017 
 Maxwell Haley April 4th, 2017 Help, I'm trapped in a Computer Science course!
 
---------------------------------------------------
+
 AStewart Modified ReadMe File 4/3/2017
-=======
+
 Martin Lurette
 April 3rd 2017
+
+Brian - I like pizza - 4/3/2017
 
