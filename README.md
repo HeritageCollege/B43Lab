@@ -10,6 +10,10 @@ More spacing
 Amirreza Yadollahi...
 April 3rd 2017 
 
+
+Isaac Mills
+April 3rd, 2017
+
 Maxwell Haley
 April 4th, 2017
 Help, I'm trapped in a Computer Science course!
@@ -43,3 +47,4 @@ Branched off from HeritageCollege/B42Lab
 Cody Berube
 
 Philip edit this file - April 3rd 2017 
+
