@@ -27,7 +27,8 @@ Im second
 
 Brae was here 03/04/2017 
 
- 
+Jeremy Clarke
+April 3rd, 2017
 
 Maxwell Haley April 4th, 2017 Help, I'm trapped in a Computer Science course!
 
