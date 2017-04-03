@@ -8,3 +8,6 @@ A spacing line
 
 More spacing
 
+Louis Thibodeau
+03/04/17
+Programming IV 420-B42
