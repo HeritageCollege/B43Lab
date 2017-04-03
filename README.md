@@ -8,6 +8,11 @@ A spacing line
 
 More spacing
 
+Jeremy Clarke
+April 4th, 2017
+Get out me file.
+
 Maxwell Haley
 April 4th, 2017
 Help, I'm trapped in a Computer Science course!
+
