@@ -8,6 +8,6 @@ A spacing line
 
 More spacing
 
-Louis Thibodeau
-03/04/17
-Programming IV 420-B42
+Brae was here 03/04/2017 
+Maxwell Haley April 4th, 2017 Help, I'm trapped in a Computer Science course!
+Louis Thibodeau 03/04/17 Programming IV 420-B42
