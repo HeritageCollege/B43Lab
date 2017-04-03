@@ -8,5 +8,12 @@ A spacing line
 
 More spacing
 
+
+Maxwell Haley
+April 4th, 2017
+Help, I'm trapped in a Computer Science course!
+
+
 MY NAME IS ANDREW HA
 4/3/2017
+Im second
