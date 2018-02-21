@@ -8,11 +8,6 @@ Patrick Boyer has changed this file
 
 A spacing line
 
-
-Hey, this is PQ's now
-
-kevin wuz here
-
 Eva-Steve - updating the README.md file
 Hey, this is PQ's now
 
@@ -26,5 +21,8 @@ Eva-Steve - updating the README.md file
 
 Yvoni Koumna - updating the README.md file 
 
+Justin was here
+
 Edited by LP Thibert
+
 
