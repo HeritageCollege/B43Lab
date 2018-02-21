@@ -3,3 +3,5 @@ Hello world
 Added line to own file
 This is Pierre, adding a line
 Hey, do you like cats
+Kevin wuz here
+Yvoni says Hello 
