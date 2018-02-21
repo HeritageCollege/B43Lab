@@ -8,6 +8,7 @@ Patrick Boyer has changed this file
 
 A spacing line
 
+<<<<<<< HEAD
 Hey, this is PQ's now
 
 
@@ -16,3 +17,6 @@ Updated by SL
 
 Daniel Geggie changed this
 
+=======
+Eva-Steve - updating the README.md file
+>>>>>>> esa-readme-edits
