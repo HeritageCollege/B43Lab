@@ -8,17 +8,18 @@ Patrick Boyer has changed this file
 
 A spacing line
 
-<<<<<<< HEAD
+Eva-Steve - updating the README.md file
 Hey, this is PQ's now
-
-
 
 Updated by SL
 
 Daniel Geggie changed this
 
+
 =======
 Eva-Steve - updating the README.md file
->>>>>>> esa-readme-edits
+
 
 Yvoni Koumna - updating the README.md file 
+=======
+
