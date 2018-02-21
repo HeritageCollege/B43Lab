@@ -23,3 +23,6 @@ Yvoni Koumna - updating the README.md file
 
 Justin was here
 
+Edited by LP Thibert
+
+
