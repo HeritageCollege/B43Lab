@@ -32,15 +32,10 @@ A spacing line
 # Aaditya Chopra 2:58 PM
 # Tony Bebawy
 - March 13 - 2:59 PM
->>>>>>> 1001e3d497e8ce0c20ec0439b5cf1b4f7510bfeb
-
-<<<<<<< HEAD
-=======
 Tianwei Ding made a change at 2:57pm, on March 13th, 2019
-
 # Slava Knyazev 2:56
-
 # Marissa Cleroux 3:00PM
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 1001e3d497e8ce0c20ec0439b5cf1b4f7510bfeb
 =======
