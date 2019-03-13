@@ -7,13 +7,20 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
+# Kevin Luu - 3:06 PM
+# Thomas Palaisy 3:03Pm
+# Marissa Cleroux 3:00PM
+# Patrick Mirowski 13-03-19 15:05
+# Owen WSL 2019-03-13 2:59 PM
 # Lianne Spurdle 2019-03-13 3:04PM
 # Pierre Gilroy 2:59
-# Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
 # Thomas Palaisy 3:03Pm
+# Cody Douris 2:55 PM 2019-03-13
+# Aaditya Chopra 2:58 PM
+# Tony Bebawy
 # Cody Douris 2:55 PM 2019-03-13
 # Aaditya Chopra 2:58 PM
 # Tony Bebawy - March 13 - 2:59 PM
