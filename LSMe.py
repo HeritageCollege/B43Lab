@@ -8,3 +8,7 @@ def ls_show():
 def print_nums():
     for n in range(1, 11):
         print(f"{n}")
+
+def dg_new():
+    print("Dan: Hello Lianne")
+          
