@@ -6,7 +6,6 @@ Make sure you know what information should be kept about this file. All of it sh
 
 A spacing line
 
-# Allan McDonald# Allan McDonald
 <<<<<<< HEAD
 # Pierre Gilroy 2:59
 =======
