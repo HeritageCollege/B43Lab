@@ -3,5 +3,10 @@ def TDing_show():
 
 
 def TDing_old():
-    for i in range(10):
+    for i in range(24):
         print(i + 1)
+
+def vk_new():
+    print("Slava: Hello Ding")
+    
+    
