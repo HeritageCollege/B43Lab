@@ -7,4 +7,4 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
-# Cody DOuris 2:55 PM 2019-03-13
+# Cody Douris 2:55 PM 2019-03-13
