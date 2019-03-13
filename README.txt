@@ -7,16 +7,12 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+# Lianne Spurdle 2019-03-13 3:04PM
 # Pierre Gilroy 2:59
+# Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
-# Marissa Cleroux 3:00PM
 # Thomas Palaisy 3:03Pm
 # Cody Douris 2:55 PM 2019-03-13
 # Aaditya Chopra 2:58 PM

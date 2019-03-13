@@ -7,3 +7,7 @@ def am_show():
 def tp_show_()
     for x in range(1, 11):
         print(x)
+
+def pq_loop()
+    for n in range(1, 11)
+        print(n)
