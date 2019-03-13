@@ -6,6 +6,4 @@ Make sure you know what information should be kept about this file. All of it sh
 
 A spacing line
 
-# Jonathan West
-
-14:59
+# Allan McDonald
