@@ -10,13 +10,18 @@ A spacing line
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Owen WSL 2019-03-13 2:59 PM
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+# Lianne Spurdle 2019-03-13 3:04PM
+>>>>>>> b795b6210f034a4b006687e6625b76c4bf52cd29
 # Pierre Gilroy 2:59
+# Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
 <<<<<<< HEAD
 # Marissa Cleroux 3:00PM
@@ -28,7 +33,6 @@ A spacing line
 >>>>>>> 22da9d491ec6719ef22b115551c1cbe2f7686e1d
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
-# Marissa Cleroux 3:00PM
 # Thomas Palaisy 3:03Pm
 # Cody Douris 2:55 PM 2019-03-13
 # Aaditya Chopra 2:58 PM
