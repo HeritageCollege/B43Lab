@@ -7,11 +7,6 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Pierre Gilroy 2:59
 # Cody Douris 2:55 PM 2019-03-13
 # Nicholas Cool-Gaudin
@@ -23,3 +18,4 @@ A spacing line
 # Tony Bebawy - March 13 - 2:59 PM
 Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
+# Jonathan West 15:20 Prog IV 420-B43
