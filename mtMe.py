@@ -6,3 +6,8 @@ Programming IV 420-B43''')
 def num():
     for i in range (1, 10):
         print(i)
+
+
+def ak_new():
+    print('Abdenour Khelifi')
+    print('Hello Maxime')
