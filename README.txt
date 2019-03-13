@@ -18,13 +18,15 @@ Tristan Young 3:07PM
 # Kevin Luu - 3:06 PM
 # Thomas Palaisy 3:03Pm
 # Marissa Cleroux 3:00PM
+# Kevin Luu - 3:06 PM
+# Thomas Palaisy 3:03Pm
+# Marissa Cleroux 3:00PM
 # Patrick Mirowski 13-03-19 15:05
 # Owen WSL 2019-03-13 2:59 PM
 # Patrick Mirowski 13-03-19 15:05
 # Kevin Luu - 3:06 PM
 # Lianne Spurdle 2019-03-13 3:04PM
 # Pierre Gilroy 2:59
-# Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
 # Marissa Cleroux 3:00PM
 # Nicholas Cool-Gaudin 2:56pm 2019-03-13
@@ -49,3 +51,4 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Tony Bebawy - March 13 - 2:59 PM
 # Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
+#Chelsea Smith 3:36pm
