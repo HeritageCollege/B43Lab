@@ -6,3 +6,7 @@ def vk_show():
 def display_numbers():
     for n in range(0, 10):
         print(n)
+        
+def md_new():
+    print('Maxwell')
+    print('Hello Slava')
