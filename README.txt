@@ -22,6 +22,10 @@ A spacing line
 # Marissa Cleroux 3:00PM
 # Manuel Nieves 3:02PM
 =======
+- March 13 - 2:59 PM
+Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+# Slava Knyazev 2:56
+Manuel Nieves 3:02PM
 >>>>>>> 23790ebde9f070a46536f38ddfa6a51e707fa485
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
@@ -32,6 +36,8 @@ A spacing line
 # Tony Bebawy - March 13 - 2:59 PM
 # Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 =======
+# Tony Bebawy
+- March 13 - 2:59 PM
 >>>>>>> 23790ebde9f070a46536f38ddfa6a51e707fa485
 # Slava Knyazev 2:56
 # Marissa Cleroux 3:00PM
