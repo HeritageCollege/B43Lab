@@ -9,6 +9,14 @@ A spacing line
 # Allan McDonald
 <<<<<<< HEAD
 <<<<<<< HEAD
+# Kevin Luu - 3:06 PM
+=======
+# Thomas Palaisy 3:03Pm
+
+# Marissa Cleroux 3:00PM
+>>>>>>> deb4b5f44b73e66132d3974f53074b97bc079521
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -72,7 +80,11 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 293ad5f4c410031d5b4bebd580f2620154d9902a
+=======
+>>>>>>> c66fa502b0ac9f89bce8dfd7a7dc03aa3b39d538
+>>>>>>> 65b78604b99a9a1deb20bd7c55c865f1aca2f0f9
 =======
 <<<<<<< HEAD
 # Marissa Cleroux 3:00PM
