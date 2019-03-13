@@ -11,3 +11,6 @@ def ac_counter():
         print(i)
 
 
+def owsl_new():
+   print('Owen')
+   print('Hello Adi')
