@@ -9,6 +9,14 @@ A spacing line
 # Allan McDonald
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+
+# Maxime Thivierge
+# Updated 2019-03-13 2:59 PM
+>>>>>>> a64823bb47d64b67ef1d260bed2304bc17bfe601
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 Tristan Young 3:07PM
 =======
@@ -19,11 +27,12 @@ Tristan Young 3:07PM
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> 725be2587dcfac3b5154a94224e9b595046c3aea
 # Kevin Luu - 3:06 PM
-=======
 # Thomas Palaisy 3:03Pm
-
 # Marissa Cleroux 3:00PM
+<<<<<<< HEAD
+=======
 >>>>>>> deb4b5f44b73e66132d3974f53074b97bc079521
 =======
 >>>>>>> 353ab0a9f4f7cbb0ca32679217229d8a3fb19d2e
@@ -31,24 +40,17 @@ Tristan Young 3:07PM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> 725be2587dcfac3b5154a94224e9b595046c3aea
 # Patrick Mirowski 13-03-19 15:05
-=======
-=======
-=======
-=======
-
 # Owen WSL 2019-03-13 2:59 PM
->>>>>>> a4c19b8ff806344fe2952f35a5efb41d62d63655
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 # Lianne Spurdle 2019-03-13 3:04PM
->>>>>>> b795b6210f034a4b006687e6625b76c4bf52cd29
 # Pierre Gilroy 2:59
 # Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
+<<<<<<< HEAD
+# Marissa Cleroux 3:00PM
+# Nicholas Cool-Gaudin 2:56pm 2019-03-13
+=======
 <<<<<<< HEAD
 >>>>>>> 293ad5f4c410031d5b4bebd580f2620154d9902a
 =======
@@ -67,28 +69,15 @@ Tristan Young 3:07PM
 >>>>>>> 353ab0a9f4f7cbb0ca32679217229d8a3fb19d2e
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
+>>>>>>> 725be2587dcfac3b5154a94224e9b595046c3aea
 # Thomas Palaisy 3:03Pm
-<<<<<<< HEAD
->>>>>>> 96c0ddb7bf64f0360ea157ea1fa7371dff5427e4
 # Cody Douris 2:55 PM 2019-03-13
 # Marissa Cleroux 3:00PM
 # Aaditya Chopra 2:58 PM
->>>>>>> aa08d5d2bd51d744ab1edd2dc1cbc34712f781ad
-# Tony Bebawy
-- March 13 - 2:59 PM
-Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+# Tony Bebawy - March 13 - 2:59 PM
+# Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
 # Marissa Cleroux 3:00PM
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e6ebc9762cc8a7b27eb829fc7a7716a68406a20f
-=======
->>>>>>> 3d100620810d8ab9cb0c90a5252abf315172131b
->>>>>>> aa08d5d2bd51d744ab1edd2dc1cbc34712f781ad
-=======
-
->>>>>>> 96c0ddb7bf64f0360ea157ea1fa7371dff5427e4
-=======
 # Cody Douris 2:55 PM 2019-03-13
 <<<<<<< HEAD
 # Marissa Cleroux 3:00PM
@@ -103,8 +92,12 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 =======
 # Aaditya Chopra 2:58 PM
 # Tony Bebawy - March 13 - 2:59 PM
-Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+# Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
+<<<<<<< HEAD
+# Marissa Cleroux 3:00PM
+# Marissa Cleroux 3:00PM
+=======
 <<<<<<< HEAD
 >>>>>>> 293ad5f4c410031d5b4bebd580f2620154d9902a
 =======
@@ -150,4 +143,7 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 >>>>>>> 22da9d491ec6719ef22b115551c1cbe2f7686e1d
 >>>>>>> a4c19b8ff806344fe2952f35a5efb41d62d63655
 >>>>>>> b8bf5bc98734596e9a5f398cdbb43bb24135bf1d
+<<<<<<< HEAD
+=======
 >>>>>>> 353ab0a9f4f7cbb0ca32679217229d8a3fb19d2e
+>>>>>>> 725be2587dcfac3b5154a94224e9b595046c3aea
