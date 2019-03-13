@@ -8,6 +8,7 @@ A spacing line
 
 # Allan McDonald
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pierre Gilroy 2:59
 =======
 
