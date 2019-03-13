@@ -7,4 +7,15 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
+<<<<<<< HEAD
 # Patrick Mirowski 13-03-19 15:05
+=======
+# Tony Bebawy
+- March 13 - 2:59 PM
+
+Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+
+# Slava Knyazev 2:56
+
+# Marissa Cleroux 3:00PM
+>>>>>>> e6ebc9762cc8a7b27eb829fc7a7716a68406a20f
