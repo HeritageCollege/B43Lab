@@ -85,6 +85,9 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 =======
 # Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
+<<<<<<< HEAD
+David House 3:36
+=======
 #Chelsea Smith 3:36pm
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -93,3 +96,4 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 =======
 >>>>>>> d20fbb3c182059987021c1396f2a4a4acecbf197
 >>>>>>> 68e3ff0c3bb62639f0af80c796bbba5346e86fbc
+>>>>>>> e53b39ee92cf410ef8cc1661135bbb2df627717c
