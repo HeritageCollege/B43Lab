@@ -9,9 +9,15 @@ A spacing line
 # Allan McDonald
 # Maxime Thivierge
 # Updated 2019-03-13 2:59 PM
+
+# Maxime Thivierge
+# Updated 2019-03-13 2:59 PM
 Tristan Young 3:07PM
 # Abdenour Khelifi
 # 03:09:21
+# Kevin Luu - 3:06 PM
+# Thomas Palaisy 3:03Pm
+# Marissa Cleroux 3:00PM
 # Kevin Luu - 3:06 PM
 # Thomas Palaisy 3:03Pm
 # Marissa Cleroux 3:00PM
@@ -20,12 +26,18 @@ Tristan Young 3:07PM
 # Lianne Spurdle 2019-03-13 3:04PM
 # Pierre Gilroy 2:59
 # Cody Douris 2:55 PM 2019-03-13
+# Marissa Cleroux 3:00PM
+# Nicholas Cool-Gaudin 2:56pm 2019-03-13
+# Marissa Cleroux 3:00PM
 # Nicholas Cool-Gaudin
 # 2:56pm 2019-03-13
 # Thomas Palaisy 3:03Pm
 # Cody Douris 2:55 PM 2019-03-13
 # Aaditya Chopra 2:58 PM
-# Tony Bebawy
+# Tony Bebawy - March 13 - 2:59 PM
+# Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+# Slava Knyazev 2:56
+# Marissa Cleroux 3:00PM
 # Cody Douris 2:55 PM 2019-03-13
 # Aaditya Chopra 2:58 PM
 # Tony Bebawy
@@ -34,6 +46,10 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
 # Aaditya Chopra 2:58 PM
 # Tony Bebawy - March 13 - 2:59 PM
-Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+# Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 # Slava Knyazev 2:56
 #Chelsea Smith 3:28pm
+# Marissa Cleroux 3:00PM
+# Marissa Cleroux 3:00PM
+# Marissa Cleroux 3:00PM
+
