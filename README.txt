@@ -10,3 +10,11 @@ A spacing line
 # Cody Douris 2:55 PM 2019-03-13
 # Marissa Cleroux 3:00PM
 
+<<<<<<< HEAD
+=======
+Tianwei Ding made a change at 2:57pm, on March 13th, 2019
+
+# Slava Knyazev 2:56
+
+# Marissa Cleroux 3:00PM
+>>>>>>> 3d100620810d8ab9cb0c90a5252abf315172131b
