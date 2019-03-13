@@ -5,3 +5,6 @@ def mn_show():
 def display_num():
     for i in range(1, 10):
         print(i)
+        
+def ls_new():
+    print("Hello Manuel, this is Lianne.")
