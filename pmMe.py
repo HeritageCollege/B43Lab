@@ -7,3 +7,6 @@ def pm_show():
 def numbers():
     for i in range(10):
         print(i)
+
+def DH_new():
+    print("David House/Hello Patrick")
