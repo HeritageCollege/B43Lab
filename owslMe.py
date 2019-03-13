@@ -6,5 +6,5 @@ def print_nums():
         print(x)
 
 ncg_new():
-   print('Owen')
-   print('Hello Adi')
+   print('Maxime')
+   print('Hello Owen')
