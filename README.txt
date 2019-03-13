@@ -7,3 +7,6 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
+
+# Maxime Thivierge
+# Updated 2019-03-13 2:59 PM
