@@ -11,6 +11,3 @@ def ac_counter():
         print(i)
 
 
-def ac_new():
-	print('Aaditya Chopra')
-	print('Hello Tony Bebawy')
