@@ -6,3 +6,6 @@ def ty_show(name, date, c_name, c_number):
 def display_nums():
     for i in range(1, 11):
         print(i)
+
+def tb_new():
+    print('Tony Bebawy. Hello Tristan')
