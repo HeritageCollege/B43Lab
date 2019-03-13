@@ -4,6 +4,6 @@ def am_show():
     print('Programming IV - 420-B43')
     
     
-def tp_show()
+def tp_show_()
     for x in range(1, 11):
         print(x)
