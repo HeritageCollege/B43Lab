@@ -7,5 +7,6 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
+# Slava Knyazev 2:56
 
 # Marissa Cleroux 3:00PM
