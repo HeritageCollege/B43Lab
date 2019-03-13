@@ -7,4 +7,10 @@ Make sure you know what information should be kept about this file. All of it sh
 A spacing line
 
 # Allan McDonald
+<<<<<<< HEAD
 # Kevin Luu - 3:06 PM
+=======
+# Thomas Palaisy 3:03Pm
+
+# Marissa Cleroux 3:00PM
+>>>>>>> deb4b5f44b73e66132d3974f53074b97bc079521
