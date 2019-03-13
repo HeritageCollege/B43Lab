@@ -8,6 +8,12 @@ A spacing line
 
 # Allan McDonald
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+# Maxime Thivierge
+# Updated 2019-03-13 2:59 PM
+>>>>>>> a64823bb47d64b67ef1d260bed2304bc17bfe601
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -137,5 +143,7 @@ Tianwei Ding made a change at 2:57pm, on March 13th, 2019
 >>>>>>> 22da9d491ec6719ef22b115551c1cbe2f7686e1d
 >>>>>>> a4c19b8ff806344fe2952f35a5efb41d62d63655
 >>>>>>> b8bf5bc98734596e9a5f398cdbb43bb24135bf1d
+<<<<<<< HEAD
+=======
 >>>>>>> 353ab0a9f4f7cbb0ca32679217229d8a3fb19d2e
 >>>>>>> 725be2587dcfac3b5154a94224e9b595046c3aea
