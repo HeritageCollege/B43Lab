@@ -5,6 +5,3 @@ def print_nums():
     for x in range(1,11):
         print(x)
 
-ncg_new():
-   print('Maxime')
-   print('Hello Owen')
