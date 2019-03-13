@@ -4,3 +4,8 @@ def xx_show():
         2019-03-13
         Programming IV
         420-B43''')
+
+
+def display_numbers():
+    for i in range(0, 11):
+        print(i)
