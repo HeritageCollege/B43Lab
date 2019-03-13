@@ -6,3 +6,4 @@ Make sure you know what information should be kept about this file. All of it sh
 
 Doug 2:56
 Cody 3:40
+Pierre 3:54 :(
